@@ -1,5 +1,5 @@
 # Hola, soy Daniel 👋
-
+<img src="https://giphy.com/gifs/hi-holi-saludo-hs67xo8fGYfx5KlBgV">
 Soy estudiante de Ingeniería en Sistemas, me gusta la tecnología y el desarrollo de software. Me interesa la programación, el desarrollo de aplicaciones móviles y web, y la creación de soluciones innovadoras. Estoy constantemente aprendiendo nuevas herramientas y lenguajes de programación para mejorar mis habilidades.
 
 ## 🚀 Habilidades
