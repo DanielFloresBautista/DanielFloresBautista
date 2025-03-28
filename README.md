@@ -1,4 +1,6 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh5bWh3N243bHpydmNicDBmYjY0dnEwbjhsdXd1aTBicjI1ajJsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hAllPPhAuqKM90z26Q/giphy.gif" width="100">
+# 👨‍💻 Hola soy Daniel Flores Bautista <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh5bWh3N243bHpydmNicDBmYjY0dnEwbjhsdXd1aTBicjI1ajJsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hAllPPhAuqKM90z26Q/giphy.gif" width="100">
+
+#### Soy estudiante de Ingeniería en Sistemas de octavo semestre, me gusta la tecnología y el desarrollo de software. Me interesa la programación, el desarrollo de aplicaciones móviles
 
 <a>
   <h1>
@@ -19,5 +21,21 @@
     
   </h1> 
 </a>
+
+<a>
+  <h1>
+    Contactos
+    <br>
+    <a href="https://www.whatsapp.com/" target="_blank">
+    <img src="IMAGENES/whatsapp.svg" width="30">
+    </a>
+    <a href="https://www.whatsapp.com/" target="_blank">
+    <img src="IMAGENES/gmail.svg" width="30">
+    </a>
+
+  </h1>
+  
+</a>
+
 
 
