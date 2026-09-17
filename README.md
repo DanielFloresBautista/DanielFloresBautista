@@ -1,23 +1,20 @@
 # 👨‍💻 Hola, soy Daniel Flores Bautista
 
-### 💻 Desarrollador de Software | Ingeniería en Sistemas Computacionales
+### 💻 Desarrollador de Software | Automatización con IA
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales** interesado en el desarrollo de software y la creación de soluciones tecnológicas.
+Estudiante de **Ingeniería en Sistemas Computacionales** especializado en **automatización de procesos con Python** e integración de **APIs de Inteligencia Artificial**. Me enfoco en construir soluciones backend, APIs y bases de datos que resuelven problemas reales de negocio — desde extracción inteligente de datos hasta sistemas web completos.
 
-Me gusta trabajar en **desarrollo web, bases de datos, APIs y automatización**, además de seguir aprendiendo sobre **ciberseguridad y tecnologías backend**.
-
-Actualmente estoy enfocado en mejorar mis habilidades mediante proyectos prácticos y desarrollar soluciones que puedan utilizarse en escenarios reales.
+Actualmente estoy enfocado en desarrollar soluciones prácticas que puedan utilizarse en escenarios reales, combinando desarrollo backend tradicional con IA generativa.
 
 ---
 
 ## 🚀 Sobre mí
 
 * 🎓 Estudiante de Ingeniería en Sistemas Computacionales
-* 💻 Interesado en **desarrollo web y backend**
-* 🗄️ Experiencia académica trabajando con **bases de datos SQL y NoSQL**
-* 🔌 Desarrollo y consumo de **APIs REST**
-* 🤖 Interés en **automatización y RPA**
-* 🔐 Aprendiendo **ciberseguridad y Linux**
+* 🤖 Automatización de procesos con **Python** e integración de **APIs de IA generativa (Google Gemini)**
+* 💻 Desarrollo backend, APIs REST y bases de datos
+* 🗄️ Experiencia trabajando con bases de datos SQL y NoSQL
+* 🔌 Diseño y consumo de APIs REST
 * 🧪 Uso de herramientas para pruebas y desarrollo como **Postman**
 * 📚 Actualmente construyendo proyectos para fortalecer mi portafolio
 
@@ -33,6 +30,13 @@ Actualmente estoy enfocado en mejorar mis habilidades mediante proyectos prácti
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### IA y automatización
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
 
 ### Bases de datos
@@ -56,13 +60,16 @@ Actualmente estoy enfocado en mejorar mis habilidades mediante proyectos prácti
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white">
+<img src="https://img.shields.io/badge/Ciberseguridad-557C94?style=for-the-badge&logo=owasp&logoColor=white">
 </p>
 
 ---
 
 ## 📂 Proyectos
+
+### 🤖 Automatización e IA
+
+* 🧾 **Captura Automática de Comprobantes con IA** — Sistema en Python que utiliza la API de Google Gemini (visión artificial) para extraer datos estructurados de tickets y comprobantes de gasto. Automatiza la integración directa de los datos extraídos a reportes de Excel mediante openpyxl, eliminando la captura manual.
 
 ### 🌐 Desarrollo Web
 
@@ -71,7 +78,7 @@ Proyectos enfocados en el desarrollo de aplicaciones web, manejo de sesiones, CR
 * 🛒 **RappiPachuca** — Aplicación web para gestión de productos y pedidos.
 * 📡 **IoT CRUD** — Aplicación para administrar dispositivos IoT mediante una API.
 * 💬 **Foro Web** — Proyecto desarrollado con Angular.
-* 🐓 **Arena de Gallos** — Aplicación web con módulos de administración y usuarios.
+* 🎫 **Sistema de Gestión de Eventos en Vivo** — Aplicación web con módulos de administración, roles de usuario, wallet y transmisión en vivo.
 
 ### 🗄️ Bases de datos
 
@@ -81,22 +88,6 @@ He trabajado con diferentes sistemas de bases de datos para diseñar estructuras
 * PostgreSQL
 * MongoDB
 * Firebase
-
-### 🔐 Ciberseguridad
-
-Actualmente estoy fortaleciendo mis conocimientos prácticos en:
-
-* Linux
-* Kali Linux
-* Redes
-* Nmap
-* Metasploit Framework
-* OWASP ZAP
-* Permisos y usuarios en Linux
-* Análisis básico de logs
-* Seguridad web
-
-> Todo el aprendizaje de seguridad se realiza en laboratorios y entornos controlados.
 
 ---
 
@@ -114,12 +105,11 @@ Actualmente estoy fortaleciendo mis conocimientos prácticos en:
 
 ## 🎯 Actualmente trabajando en
 
+* 🤖 Automatización de procesos con Python e IA generativa
 * 🚀 Desarrollo de proyectos para mi portafolio
-* 🌐 Desarrollo web
+* 🌐 Desarrollo web y APIs
 * 🗄️ Diseño y administración de bases de datos
-* 🔌 APIs y servicios web
-* 🤖 Automatización de procesos
-* 🔐 Fundamentos prácticos de ciberseguridad
+* 🔐 Fundamentos prácticos de ciberseguridad y Linux
 
 ---
 
@@ -130,7 +120,7 @@ Actualmente estoy fortaleciendo mis conocimientos prácticos en:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="TU_LINK_DE_LINKEDIN_AQUI">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
@@ -138,5 +128,3 @@ Actualmente estoy fortaleciendo mis conocimientos prácticos en:
 ---
 
 ⭐ Si alguno de mis proyectos te resulta interesante, puedes explorar mis repositorios.
-
-
