@@ -94,11 +94,11 @@ He trabajado con diferentes sistemas de bases de datos para diseñar estructuras
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l21200595-creator&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielFloresBautista&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l21200595-creator&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFloresBautista&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
