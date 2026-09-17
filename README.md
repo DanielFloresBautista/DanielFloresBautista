@@ -121,7 +121,7 @@ He trabajado con diferentes sistemas de bases de datos para diseñar estructuras
 </a>
 
 <a href="https://www.linkedin.com/in/daniel-flores-bautista-71762227b/">
-<img src="[https://img.shields.io/badge/LinkedIn-0A66C2]https://www.linkedin.com/in/daniel-flores-bautista-71762227b/?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
